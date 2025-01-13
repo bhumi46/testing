@@ -9,3 +9,4 @@ merge test2
 test2
 demo
 lamda
+test lamda 1
